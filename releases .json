@@ -1,0 +1,29 @@
+{
+  "updated": "2026-10-09T15:00:00-04:00",
+  "channels": {
+    "production": {
+      "version": "1.5.8",
+      "url": "https://raw.githubusercontent.com/PopBoxIT/pbs-support-assist-releases/refs/heads/main/msi/PopBoxSupportAssist-1.5.8.msi",
+      "sha256": "8F07A7FA8C36422C21B54971C926E92738E61C7F17D07F556693A60639AFF3D0"
+    },
+    "beta": {
+      "version": "15.4.4",
+      "url": "https://raw.githubusercontent.com/PopBoxIT/pbs-support-assist-releases/refs/heads/main/msi/PopBoxSupportAssist-15.4.4-BETA.msi",
+      "sha256": "108FC9CDD9A25914ABDA2FA5491F14F6BC20E2809D1119D1F9E9D911BAEB2166"
+    }
+  },
+  "history": [
+    {
+      "channel": "production",
+      "version": "1.5.8",
+      "url": "https://raw.githubusercontent.com/PopBoxIT/pbs-support-assist-releases/refs/heads/main/msi/PopBoxSupportAssist-1.5.8.msi",
+      "sha256": "8F07A7FA8C36422C21B54971C926E92738E61C7F17D07F556693A60639AFF3D0"
+    },
+    {
+      "channel": "beta",
+      "version": "15.4.4",
+      "url": "https://raw.githubusercontent.com/PopBoxIT/pbs-support-assist-releases/refs/heads/main/msi/PopBoxSupportAssist-15.4.4-BETA.msi",
+      "sha256": "108FC9CDD9A25914ABDA2FA5491F14F6BC20E2809D1119D1F9E9D911BAEB2166"
+    }
+  ]
+}
