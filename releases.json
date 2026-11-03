@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T23:09:00-04:00",
+  "updated": "2026-11-03T11:41:00-05:00",
   "channels": {
     "production": {
       "version": "1.5.11",
@@ -7,12 +7,18 @@
       "sha256": "8818EE5BA6FAF4C553D1936BB06DC765E0A66AA98881E4849EF7CCDFD670F41D"
     },
     "beta": {
-      "version": "15.4.9",
-      "url": "https://raw.githubusercontent.com/PopBoxIT/pbs-support-assist-releases/refs/heads/main/msi/PopBoxSupportAssist-15.4.9-BETA.msi",
-      "sha256": "66B365188E4B8A6D9ABB44A4FD5CCAF499B200EB220D1778A411B30C66EC4E67"
+      "version": "15.4.11",
+      "url": "https://raw.githubusercontent.com/PopBoxIT/pbs-support-assist-releases/refs/heads/main/msi/PopBoxSupportAssist-15.4.11-BETA.msi",
+      "sha256": "A00E3202FACEDF457FC47363A949015F3ACA5026F64852345C10F6C8788980A4"
     }
   },
   "history": [
+    {
+      "channel": "beta",
+      "version": "15.4.11",
+      "url": "https://raw.githubusercontent.com/PopBoxIT/pbs-support-assist-releases/refs/heads/main/msi/PopBoxSupportAssist-15.4.11-BETA.msi",
+      "sha256": "A00E3202FACEDF457FC47363A949015F3ACA5026F64852345C10F6C8788980A4"
+    },
     {
       "channel": "production",
       "version": "1.5.11",
